@@ -5,3 +5,5 @@ Task1 --> SELECT / WHERE
 Task2 --> BETWEEN / IN
 <br>
 Task3 --> LIKE / ILIKE
+<br>
+Task4 --> DISTINCT / COUNT
