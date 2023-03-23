@@ -10,3 +10,5 @@ Task4 --> DISTINCT / COUNT
 <br>
 Task5 --> ORDER BY  / LIMIT / OFFSET
 <br>
+Task6 --> AGGREGATE FUNCTIONS
+<br>
