@@ -7,3 +7,6 @@ Task2 --> BETWEEN / IN
 Task3 --> LIKE / ILIKE
 <br>
 Task4 --> DISTINCT / COUNT
+<br>
+Task5 --> ORDER BY  / LIMIT / OFFSET
+<br>
