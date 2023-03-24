@@ -12,3 +12,5 @@ Task5 --> ORDER BY  / LIMIT / OFFSET
 <br>
 Task6 --> AGGREGATE FUNCTIONS
 <br>
+Task7 --> GROUP BY / HAVING
+<br>
